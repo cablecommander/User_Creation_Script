@@ -4,7 +4,7 @@ This PowerShell script was created to streamline the process of user creation in
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 Before using the script, make sure the following conditions are met:
 
@@ -14,7 +14,7 @@ Before using the script, make sure the following conditions are met:
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 Follow the steps below to configure and run the script:
 
@@ -36,7 +36,7 @@ Follow the on-screen prompts to complete the user creation process.
 
 ---
 
-## ✅ Post-Creation
+## Post-Creation
 
 Once the user is created, you may:
 
